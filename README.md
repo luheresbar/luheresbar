@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Luis H. Espinosa 👋
 
-<!--
-**luheresbar/luheresbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **Full Stack Developer** and **Civil Engineer** with a solid background in project management and a love for crafting efficient and user-friendly web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- **Background:** Civil Engineering with a transition to Full Stack Web Development
+- **Location:** Boyacá, Colombia 🇨🇴
+- **Current Job/Position:** Open to new challenges in Web Development
+- **Technologies:** Angular, Java Spring Boot, PostgreSQL
+- **Ask me about:** Software Development, Project Management, Frontend & Backend
+- **Fun Fact:** I combine creativity from my engineering background with the logic of programming to build innovative solutions.
+
+---
+
+## Skills & Technologies
+Here are some of the tools and technologies I work with:
+
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Java
+- **Frameworks:** Angular, Spring Boot
+- **Databases:** PostgreSQL
+- **Tools:** Git, Visual Studio Code, Jest
+- **Other Skills:** Project Management, Risk Analysis, Agile Methodologies
+
+---
+
+## Projects
+### Daily Expenses - Personal Finance Web App
+- **Tech Stack:** Angular, Java Spring Boot, PostgreSQL
+- **Description:** A web application designed to help users manage and track their daily expenses with an intuitive UI and robust backend.
+- **Features:** Expense tracking, income categorization, transfer management.
+
+### Coinbase Homepage Clone
+- **Tech Stack:** HTML, CSS (SASS)
+- **Description:** A responsive clone of Coinbase's homepage, focusing on design and layout replication.
+
+---
+
+## Portfolio
+🌐 [Visit My Portfolio](https://your-portfolio-link.com)
+
+Explore my portfolio to see more of my work and the projects I’ve been involved in!
+---
+
+## Get in Touch
+- 📧 [Email](mailto:luishernandoespinosa@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+
+Feel free to explore my repositories or reach out if you're interested in collaboration! 🚀
