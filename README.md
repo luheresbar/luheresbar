@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** and **Civil Engi
 
 ## About Me
 - **Background:** Civil Engineering with a transition to Full Stack Web Development
-- **Location:** Boyacá, Colombia 🇨🇴
+- **Location:** Bogotá D.C., Colombia 🇨🇴
 - **Current Job/Position:** Open to new challenges in Web Development
 - **Technologies:** Angular, Java Spring Boot, PostgreSQL
 - **Ask me about:** Software Development, Project Management, Frontend & Backend
@@ -20,7 +20,7 @@ Here are some of the tools and technologies I work with:
 - **Languages:** HTML, CSS, JavaScript, TypeScript, Java
 - **Frameworks:** Angular, Spring Boot
 - **Databases:** PostgreSQL
-- **Tools:** Git, Visual Studio Code, Jest
+- **Tools:** Git, Visual Studio Code, Intellij IDEA
 - **Other Skills:** Project Management, Risk Analysis, Agile Methodologies
 
 ---
@@ -38,13 +38,13 @@ Here are some of the tools and technologies I work with:
 ---
 
 ## Portfolio
-🌐 [Visit My Portfolio](https://your-portfolio-link.com)
+🌐 [Visit My Portfolio](https://portfolio-luis-espinosa.web.app/)
 
 Explore my portfolio to see more of my work and the projects I’ve been involved in!
 ---
 
 ## Get in Touch
 - 📧 [Email](mailto:luishernandoespinosa@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-h-espinosa/)
 
 Feel free to explore my repositories or reach out if you're interested in collaboration! 🚀
