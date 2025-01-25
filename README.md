@@ -5,12 +5,12 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** and **Civil Engi
 ---
 
 ## About Me
-- **Background:** Civil Engineering with a transition to Full Stack Web Development
-- **Location:** Bogotá D.C., Colombia 🇨🇴
-- **Current Job/Position:** Open to new challenges in Web Development
-- **Technologies:** Angular, Java Spring Boot, PostgreSQL
-- **Ask me about:** Software Development, Project Management, Frontend & Backend
-- **Fun Fact:** I combine creativity from my engineering background with the logic of programming to build innovative solutions.
+- 🎓 **Background:** Civil Engineering with a transition to Full Stack Web Development  
+- 📍 **Location:** Bogota D.C., Colombia 🇨🇴  
+- 💼 **Current Job/Position:** Open to new challenges in Web Development  
+- 🛠️ **Technologies:** Angular, Java Spring Boot, PostgreSQL  
+- 💬 **Ask me about:** Software Development, Project Management, Frontend & Backend  
+- 🌟 **Fun Fact:** I play soccer horribly, but I still do it anyway.  
 
 ---
 
